@@ -1,0 +1,15 @@
+Java is easy to learn.
+Many students use Java in school.
+Files help us store information.
+Reading a file in Java is simple.
+Programs run step by step.
+Practice makes coding better.
+Computers follow our instructions.
+A file can have many lines.
+Java can read text from a file.
+Writing code is fun.
+We can print messages on the screen.
+Java works on all computers.
+Learning Java helps in projects.
+Simple programs are easy to understand.
+Coding becomes easy with practice.
